@@ -127,6 +127,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 -**Saumya Poojari** - [saumya.poojarii7@gmail.com]
 
 -LinkedIn - https://www.linkedin.com/in/ssaumz/
+
 Feel free to reach out with any questions or feedback!
 
 ---
